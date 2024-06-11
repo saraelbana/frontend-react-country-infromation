@@ -1,6 +1,6 @@
 import './App.css';
-import MapHolder from "./mapHolder/MapHolder.jsx";
-import CountriesList from "./countriesList/CountriesList.jsx";
+import MapHolder from "../src/components/mapHolder/MapHolder.jsx";
+import CountriesList from "../src/components/countriesList/CountriesList.jsx";
 
 function App() {
 
